@@ -1,0 +1,16 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "98L66R7H38.com.gramo1.app",
+        "appIDs": ["98L66R7H38.com.gramo1.app"],
+        "paths": ["/gramo-legal/c", "/gramo-legal/c/*"],
+        "components": [
+          { "/": "/gramo-legal/c", "comment": "Cestas compartidas" },
+          { "/": "/gramo-legal/c/*", "comment": "Cestas compartidas" }
+        ]
+      }
+    ]
+  }
+}
